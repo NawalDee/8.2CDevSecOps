@@ -200,7 +200,7 @@ To run the Node.js app with runtime monitoring:
 ```bash
 SNYK_PROJECT_ID=<PROJECT_ID> npm start
 ```
-
+ try
 ** The app will continue to work normally even if it's not provided a project id
 
 ## Fixing the issues
